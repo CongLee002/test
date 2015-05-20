@@ -1,0 +1,51 @@
+@charset "utf-8";
+ul{
+	list-style-type:none;}/* CSS Document */
+#header img{
+	width:600px;
+	height:250px;}
+h4{
+	text-align:center;}
+p{
+	text-indent:2em;
+	text-align:justify;}
+#jianjie{
+	width:70%;
+	/*text-align:center;*/
+	margin-left:20%;
+	z-index:1;
+		position:relative;
+		
+	}
+a:link{
+	color:blue;
+	text-decoration:none;}
+
+a:visted{
+	color:#F00;}
+	a:hover{
+	color:#F0F;}
+#left{
+	width:20%;
+	margin-top:-25px;
+	background-color:#cc12ff;
+	
+
+	position:absolute;
+	z-index:2;}
+#bar{
+	margin-left:450px;}
+.right {float:right;display:inline;
+font-size:9px;
+margin-right:15%;}
+#footer{
+	background-color:#CCC;}
+#footer p{
+	text-align:center;}
+	
+.clearfix img{
+	width:200px;
+	height:auto;}
+#form1{
+	width:50%;
+	margin-left:37%;}
